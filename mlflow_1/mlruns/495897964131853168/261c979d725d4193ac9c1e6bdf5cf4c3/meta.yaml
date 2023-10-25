@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/495897964131853168/261c979d725d4193ac9c1e6bdf5cf4c3/artifacts
+end_time: 1696503241931
+entry_point_name: ''
+experiment_id: '495897964131853168'
+lifecycle_stage: active
+run_id: 261c979d725d4193ac9c1e6bdf5cf4c3
+run_name: iris_classifier_method-1
+run_uuid: 261c979d725d4193ac9c1e6bdf5cf4c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696503239446
+status: 3
+tags: []
+user_id: Dell

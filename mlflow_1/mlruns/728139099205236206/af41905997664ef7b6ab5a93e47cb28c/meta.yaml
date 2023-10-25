@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Documents/Personal_Project/MLOps/mlflow_1/mlruns/728139099205236206/af41905997664ef7b6ab5a93e47cb28c/artifacts
+end_time: 1696393285409
+entry_point_name: ''
+experiment_id: '728139099205236206'
+lifecycle_stage: active
+run_id: af41905997664ef7b6ab5a93e47cb28c
+run_name: treasured-ray-104
+run_uuid: af41905997664ef7b6ab5a93e47cb28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696393279184
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,6 @@
+artifact_location: file:///e:/Documents/Personal_Project/MLOps/mlflow_1/mlruns/453724654916311102
+creation_time: 1696389463144
+experiment_id: '453724654916311102'
+last_update_time: 1696389463144
+lifecycle_stage: active
+name: basic_classifier

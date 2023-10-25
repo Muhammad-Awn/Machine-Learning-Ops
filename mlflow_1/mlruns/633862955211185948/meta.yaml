@@ -1,0 +1,6 @@
+artifact_location: file:///e:/Documents/Personal_Project/MLOps/mlflow_1/mlruns/633862955211185948
+creation_time: 1696498281952
+experiment_id: '633862955211185948'
+last_update_time: 1696498281952
+lifecycle_stage: active
+name: iris_classifier_05-10-23

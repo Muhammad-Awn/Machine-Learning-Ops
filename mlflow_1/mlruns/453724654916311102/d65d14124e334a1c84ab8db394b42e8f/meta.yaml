@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Documents/Personal_Project/MLOps/mlflow_1/mlruns/453724654916311102/d65d14124e334a1c84ab8db394b42e8f/artifacts
+end_time: 1696389472688
+entry_point_name: ''
+experiment_id: '453724654916311102'
+lifecycle_stage: active
+run_id: d65d14124e334a1c84ab8db394b42e8f
+run_name: efficient-zebra-771
+run_uuid: d65d14124e334a1c84ab8db394b42e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696389463613
+status: 3
+tags: []
+user_id: Dell
